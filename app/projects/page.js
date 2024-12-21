@@ -130,7 +130,7 @@ const Page = () => {
           </a>
         </div>
 
-          {/* Movie Website Project */}
+          {/* Wedding Coverage Project */}
           <div
           style={{
             backgroundColor: '#f9f9f9',
@@ -144,12 +144,12 @@ const Page = () => {
             overflow: 'hidden',
           }}
         >
-          <strong style={{ fontSize: '1.3rem', color: '#007BFF' }}>A Movie Website</strong>
+          <strong style={{ fontSize: '1.3rem', color: '#007BFF' }}>A Wedding Coverage Project</strong>
           <p style={{ margin: '1rem 0', color: '#555' }}>
-            A movie website that allows users to search for movies and view their details.
+            A personal wedding website.
           </p>
           <a
-            href="https://movie-app-2dob.onrender.com/"
+            href="https://wedding-project-228r.onrender.com"
             target="_blank"
             style={{
               color: '#007BFF',

@@ -44,7 +44,7 @@ const Page = () => {
           }}
         >
           <strong>Phone:</strong>
-          <p style={{ color: '#007BFF', margin: 0 }}>+2347015242430</p>
+          <p style={{ color: '#007BFF', margin: 0, paddingTop: 20 }}>+2347015242430</p>
         </div>
         <div
           style={{

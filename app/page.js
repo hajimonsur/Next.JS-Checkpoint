@@ -1,8 +1,9 @@
-
+import Image from "next/image";
 const Page = () => {
   return (
     <div style={{ textAlign: 'center', padding: '2rem' }}>
       <h1>Welcome to My Portfolio</h1>
+      <Image src="/monsur.jpg" alt="Profile" width={200} height={200} />
       <p>
         Hi, I'm Taiwo Monsuru, a passionate full-stack developer based in Lagos. 
         I build modern, responsive, and user-friendly applications.
